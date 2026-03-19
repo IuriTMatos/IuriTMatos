@@ -9,6 +9,15 @@ Me chamo Iuri Trajano de Matos, tenho 21 anos e sou natual do Rio Grande do Sul,
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/python?viewbox=auto&size=20" " 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
